@@ -57,8 +57,10 @@ T-Rex jump.
 
 # Reference/Bibliography
 https://os.mbed.com/teams/ST/code/6DOrientation_IKS01A2/diff/c81b6e8dec7e/X_NUCLEO_IKS01A2/Components/LSM6DSLSensor/LSM6DSLSensor.cpp/
+
 Used this documentation for using the wake_up_detection function in my code which
 will require status as a parameter and triggers this value whenever the sensor board
 is lifted.
+
 https://www.crazygames.com/game/angry-gran-run-russia
 Used this link to test the up event whenever the board is lifted, the Angry gran jumps.
