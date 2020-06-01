@@ -1,2 +1,2 @@
 # IoTProject
-using NUCLEOF401RE a GameController!!
+Using NUCLEOF401RE as a GameController!
